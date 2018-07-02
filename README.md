@@ -1,2 +1,2 @@
 # front-end-project-bootstrap4
-Responsive website using jQuery, CSS3, HTML5 and Boostrap4 
+Responsive website using jQuery, CSS3, HTML5, Boostrap 4.1, WOW, Animate, Owl Carousel among others...
